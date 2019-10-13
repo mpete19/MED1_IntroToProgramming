@@ -1,7 +1,7 @@
 Flower myFlower;  // the first instance of the Flower class
 
 void setup() {
-  size(1600, 1200);
+  fullScreen();
   // background(#43AF76);
 
   int _r1= 60;
